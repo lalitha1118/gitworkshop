@@ -3,7 +3,7 @@ name: CI-Multi-Jobs
 on:
   push:
     branches:
-      - feat/gh-ci2
+      - feat/gh-gi2
   workflow_dispatch:
 
 jobs:
